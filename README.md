@@ -7,6 +7,8 @@ These are my notes for a talk on GitHub to the ASIS team on 2/25/2015.
 
 # GitHub Features
 
+https://github.com/features
+
  * [You can use Markdown pretty much everywhere!](https://help.github.com/articles/github-flavored-markdown/)
  * There are a handful of [other really nice writing features](https://help.github.com/articles/writing-on-github/).
 
@@ -50,6 +52,16 @@ Neat feature: Issues can be closed from commit messages:
  * [Assign an issue or pull request to someone.](https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/)
 
 ## Pull Requests
+
+ * https://help.github.com/articles/using-pull-requests/
+ * http://readwrite.com/2014/07/02/github-pull-request-etiquette
+
 ## Wiki
+
+Wiki-based documentation right there next to the code!
+
+ * https://help.github.com/articles/about-github-wikis/
+ * http://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects
+ * The Spine has one: https://github.com/washingtonstateuniversity/WSU-spine/wiki
 
 # Organizations and Permissions
