@@ -65,3 +65,26 @@ Wiki-based documentation right there next to the code!
  * The Spine has one: https://github.com/washingtonstateuniversity/WSU-spine/wiki
 
 # Organizations and Permissions
+
+ * https://help.github.com/categories/organizations/
+ * https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts/
+
+Repositories can be **public** or **private**. Repositories under organizations have their access managed with *teams*:
+
+> Once you create an organization, you manage the organization's repository access with teams. &mdash; https://help.github.com/articles/permission-levels-for-an-organization-repository/
+
+When a repository is public, anyone on the internet can see the code, fork it, and submit and comment on issues and pull requests.
+
+When a repository is private, only teams on the *collaborators* list can even see anything related to the repository. What they are allowed to do depends on the team's *access level*.
+
+> [...] team members only have access to the team they are in and the repositories assigned to that team. &mdash; https://help.github.com/articles/what-are-the-different-access-permissions/
+
+There is an *Owners* team, which has full access to the whole organization and its repositories, including things like the organization's billing details.
+
+The standard access levels for a team are:
+
+ * Admin
+ * Read/Write
+ * Read
+
+See the [complete permission matrix](https://help.github.com/articles/permission-levels-for-an-organization-repository/) for more detail.
